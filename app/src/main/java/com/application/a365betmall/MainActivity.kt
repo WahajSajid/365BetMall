@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         val webView = binding.webView
         webView.settings.javaScriptEnabled = true
         webView.webViewClient = WebViewClient()
-        val url = "shieldtechgroup.io "
+        val url = "Https:365betmall.com "
         webView.loadUrl(url)
     }
 }
